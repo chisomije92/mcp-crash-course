@@ -8,7 +8,9 @@ dependencies = [
     "aiohttp>=3.11.14",
     "black>=26.10.1",
     "isort>=9.0.2",
+    "langchain>=1.4.9",
     "langchain-mcp-adapters>=0.3.2",
+    "langchain-openai>=1.7.4",
     "mcp[cli]>=1,<2",
     "python-dotenv>=1.1.0",
 ]
